@@ -1,6 +1,6 @@
 # Sales Campaign CRM
 
-This project implements a Sales Campaign Customer Relationship Management (CRM) system as part of the GEN AI Engineer role interview task at Petabytz Technologies. The system automates lead processing, email verification, outreach, and response tracking using a Google Sheet as the data store. It consists of three agents (Supervisor, Agent A, Agent B) and a FastAPI server for handling response tracking via links.
+This project implements a Sales Campaign Customer Relationship Management (CRM) system. The system automates lead processing, email verification, outreach, and response tracking using a Google Sheet as the data store. It consists of three agents (Supervisor, Agent A, Agent B) and a FastAPI server for handling response tracking via links.
 
 ## Use Case
 
